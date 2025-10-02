@@ -1,3 +1,3 @@
 # projeto-site
-projeto de um site criado durante o curso de Git e GitHub
-aprendendo sobre Branch
+projeto de um site criado durante o curso de Git e GitHub. 
+Aprendendo sobre Branch.
